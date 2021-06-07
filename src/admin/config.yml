@@ -32,7 +32,7 @@ collections:
         options: ["Tags", "created", "from", "config.yml"]
   - label: "Products"
     name: "products"
-    folter: "src/products"
+    folder: "src/products"
     create: true
     editor:
       preview: true
